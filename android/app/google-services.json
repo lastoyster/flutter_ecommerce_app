@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150558134205",
+    "project_id": "ephamarcyapp",
+    "storage_bucket": "ephamarcyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150558134205:android:5290434ed94b3e629b8cd4",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6V1EA4PESCG0otQW-CePwXd4-gv5SOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150558134205:android:ea1d789c546d305f9b8cd4",
+        "android_client_info": {
+          "package_name": "com.example.ephamarcy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6V1EA4PESCG0otQW-CePwXd4-gv5SOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
